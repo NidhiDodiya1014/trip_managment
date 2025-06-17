@@ -18,7 +18,7 @@ A Node.js and MySQL-based backend system to manage travel itineraries, users, ac
 2. Project Structure
 ```
 trip_managment/
-├── Queries.sql            # SQL queries for the application
+├── Schemas.sql            # SQL Schemas for the application
 ├── add_trip.js            # Add trip route
 ├── add_user.js            # Add user route
 ├── add_city.js            # Add city route
